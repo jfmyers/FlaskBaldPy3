@@ -1,0 +1,13 @@
+*.template.py
+*.pyc
+#*#
+._*
+*.sqlite
+*.pid
+*.log
+src/
+build/
+dist/
+logs/
+/tmp/
+flaskbald.egg-info/

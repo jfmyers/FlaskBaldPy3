@@ -1,0 +1,13 @@
+Flask==0.12.2
+SQLAlchemy==1.1.10
+Flask-Script==2.0.5
+Flask-Cors==2.1.2
+Flask-SQLAlchemy==2.2
+Flask-SSLify==0.1.5
+Flask-ErrorMail==0.2.2
+cryptography==1.9
+PyJWT==1.5.0
+WebOb==1.7.2
+celery==4.0.0
+phonenumbers==8.5.1
+jinja2==2.9.6
